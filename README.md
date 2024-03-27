@@ -1,6 +1,50 @@
 ## First Iteration
 Customers scan their e-waste on the TechTidy website to locate the nearest e-waste center for drop-off. Upon verification of the product by the facility, customers receive rewards based on the valuable metals within, redeemable on our site. Additionally, our site features a catalog of both refurbished and new electronic products sourced from retailers.
 
+Cost Structure	Revenue Streams
+"It's essential to carefully consider the balance between providing a valuable service to users and sustaining the long-term viability of our project. 
+Technology Development cost - Investment in developing and maintaining the TECH TIDY application.
+Personal Costs - Salaries for tech experts and content creators.
+
+"	"Partnerships and Collaborations -  Charge a fee for featuring certified recycling centers  or collaborate with manufacturers to promote responsible disposal of their products.
+Ad Revenue - Through YouTube and website ads."
+
+Key Partners	Key Activities	Value Proposition	Customer Relationships	Customer Segments
+"
+
+E-Waste Recycling Centers
+
+Electronics Manufacturers
+
+"	"
+User friendly platform development.
+
+Device Identification Technology "	"Reward Points
+Environmental Awareness and Education
+User-Friendly Platform for Easy Decision-Making
+Explore and Shop from a Marketplace of Certified Eco-Friendly Tech
+
+
+"	"
+User Support
+Newsletter
+"	"
+
+Individual Consumers
+
+E-Waste Recycling Centers
+
+"
+	Key Resources		Channels	
+	"
+Scanning Technology
+Database of Recycling Centers
+"		"
+Social Media
+Website / Blog
+"	
+
+TECH TIDY Business Model V1.0
 ---
 
 ## Second Iteration
