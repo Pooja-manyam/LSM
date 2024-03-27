@@ -21,7 +21,7 @@ Customers utilize the TechTidy website to scan their e-waste, discovering the ne
 
 Recognizing the potential for greater financial profitability, we've expanded our focus beyond B2C to include a B2B segment. In this new approach, we accept electronic waste from various businesses and return them to e-waste recyclers at a profitable price point. Refurbishable products are then allocated to NGOs for impactful initiatives, attributed to the donating tech companies, thereby enhancing both their reputation and ours. This strategic shift not only generates revenue but also fosters positive social impact and industry recognition.
 
-![Sample Image](https://github.com/Pooja-manyam/LSM/blob/main/Screenshot%202024-03-27%20123128.png)
+![Sample Image](https://github.com/Pooja-manyam/LSM/blob/main/Screenshot%202024-03-27%20125307.png)
 
 
 </details>
