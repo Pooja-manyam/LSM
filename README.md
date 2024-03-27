@@ -3,7 +3,7 @@
 
 Customers scan their e-waste on the TechTidy website to locate the nearest e-waste center for drop-off. Upon verification of the product by the facility, customers receive rewards based on the valuable metals within, redeemable on our site. Additionally, our site features a catalog of both refurbished and new electronic products sourced from retailers.
 
-  ![Sample Image](Screenshot 2024-03-27 122030.png)
+  ![Sample Image]((https://github.com/Pooja-manyam/LSM/blob/main/Screenshot%202024-03-27%20122030.png))
 
 </details>
 
