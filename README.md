@@ -12,7 +12,7 @@ Customers scan their e-waste on the TechTidy website to locate the nearest e-was
 
 Customers utilize the TechTidy website to scan their e-waste, discovering the nearest e-waste center for convenient drop-off. After the e-waste facility verifies the product, customers receive rewards based on the valuable metals contained within, which are redeemable at partnered electronic retailers. These collaborative electronic retailers constitute a crucial segment of our profit model, enhancing the sustainability of our operations.
 
-  ![Sample Image]([https://github.com/Pooja-manyam/LSM/blob/main/Screenshot%202024-03-27%20122030.png](https://github.com/Pooja-manyam/LSM/blob/main/Screenshot%202024-03-27%20123128.png))
+  ![Sample Image](https://github.com/Pooja-manyam/LSM/blob/main/Screenshot%202024-03-27%20123128.png)
 
 </details>
 
